@@ -1,0 +1,1 @@
+select tweet_id from Tweets where tweet >= 15;
